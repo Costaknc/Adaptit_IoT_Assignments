@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "3klmd0zqG0c=",
+  "dgSpecHash": "DXNUREhiJW4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\STALKER\\Desktop\\Adaptit\\IoT_Assignments\\DLL_Tester\\DLL_Tester\\DLL_Tester.csproj",
+  "projectFilePath": "C:\\Users\\kpet\\OneDrive - ADAPTIT A.E\\Desktop\\My_Folder\\IoT_Assignments\\DLL_Tester\\DLL_Tester\\DLL_Tester.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\STALKER\\.nuget\\packages\\system.io.pipelines\\9.0.0\\system.io.pipelines.9.0.0.nupkg.sha512",
-    "C:\\Users\\STALKER\\.nuget\\packages\\system.text.encodings.web\\9.0.0\\system.text.encodings.web.9.0.0.nupkg.sha512",
-    "C:\\Users\\STALKER\\.nuget\\packages\\system.text.json\\9.0.0\\system.text.json.9.0.0.nupkg.sha512"
+    "C:\\Users\\kpet\\.nuget\\packages\\system.io.pipelines\\9.0.0\\system.io.pipelines.9.0.0.nupkg.sha512",
+    "C:\\Users\\kpet\\.nuget\\packages\\system.text.encodings.web\\9.0.0\\system.text.encodings.web.9.0.0.nupkg.sha512",
+    "C:\\Users\\kpet\\.nuget\\packages\\system.text.json\\9.0.0\\system.text.json.9.0.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -72,6 +72,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ApiClient.cs" />
+    <Compile Include="IIpDetails.cs" />
+    <Compile Include="IPServiceNotAvailableException.cs" />
     <Compile Include="IpDetails.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

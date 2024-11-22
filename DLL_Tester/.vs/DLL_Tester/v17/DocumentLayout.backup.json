@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\STALKER\\Desktop\\Adaptit\\IoT_Assignments\\DLL_Tester\\",
+  "WorkspaceRootPath": "C:\\Users\\kpet\\OneDrive - ADAPTIT A.E\\Desktop\\My_Folder\\IoT_Assignments\\DLL_Tester\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CBB44078-49CF-4634-8305-BF407C8B26B6}|DLL_Tester\\DLL_Tester.csproj|c:\\users\\stalker\\desktop\\adaptit\\iot_assignments\\dll_tester\\dll_tester\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CBB44078-49CF-4634-8305-BF407C8B26B6}|DLL_Tester\\DLL_Tester.csproj|c:\\users\\kpet\\onedrive - adaptit a.e\\desktop\\my_folder\\iot_assignments\\dll_tester\\dll_tester\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CBB44078-49CF-4634-8305-BF407C8B26B6}|DLL_Tester\\DLL_Tester.csproj|solutionrelative:dll_tester\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\STALKER\\Desktop\\Adaptit\\IoT_Assignments\\DLL_Tester\\DLL_Tester\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\kpet\\OneDrive - ADAPTIT A.E\\Desktop\\My_Folder\\IoT_Assignments\\DLL_Tester\\DLL_Tester\\Program.cs",
               "RelativeDocumentMoniker": "DLL_Tester\\Program.cs",
-              "ToolTip": "C:\\Users\\STALKER\\Desktop\\Adaptit\\IoT_Assignments\\DLL_Tester\\DLL_Tester\\Program.cs",
+              "ToolTip": "C:\\Users\\kpet\\OneDrive - ADAPTIT A.E\\Desktop\\My_Folder\\IoT_Assignments\\DLL_Tester\\DLL_Tester\\Program.cs",
               "RelativeToolTip": "DLL_Tester\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

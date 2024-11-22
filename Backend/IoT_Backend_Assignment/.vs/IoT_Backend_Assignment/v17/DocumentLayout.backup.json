@@ -1,10 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\STALKER\\Desktop\\Adaptit\\IoT_Assignments\\Backend\\IoT_Backend_Assignment\\",
+  "WorkspaceRootPath": "C:\\Users\\kpet\\OneDrive - ADAPTIT A.E\\Desktop\\My_Folder\\IoT_Assignments\\Backend\\IoT_Backend_Assignment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{812EA6D3-BBE3-4DFE-B93A-6E96E88BAB0D}|IoT_Backend_Assignment\\IoT_Backend_Assignment.csproj|c:\\users\\stalker\\desktop\\adaptit\\iot_assignments\\backend\\iot_backend_assignment\\iot_backend_assignment\\ipdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{812EA6D3-BBE3-4DFE-B93A-6E96E88BAB0D}|IoT_Backend_Assignment\\IoT_Backend_Assignment.csproj|solutionrelative:iot_backend_assignment\\ipdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7161FEEB-48EE-4594-9D25-6A0E078EE3A3}|..\\WebApi\\WebApi.csproj|c:\\users\\kpet\\onedrive - adaptit a.e\\desktop\\my_folder\\iot_assignments\\backend\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7161FEEB-48EE-4594-9D25-6A0E078EE3A3}|..\\WebApi\\WebApi.csproj|c:\\users\\kpet\\onedrive - adaptit a.e\\desktop\\my_folder\\iot_assignments\\backend\\webapi\\webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +21,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "IpDetails.cs",
-              "DocumentMoniker": "C:\\Users\\STALKER\\Desktop\\Adaptit\\IoT_Assignments\\Backend\\IoT_Backend_Assignment\\IoT_Backend_Assignment\\IpDetails.cs",
-              "RelativeDocumentMoniker": "IoT_Backend_Assignment\\IpDetails.cs",
-              "ToolTip": "C:\\Users\\STALKER\\Desktop\\Adaptit\\IoT_Assignments\\Backend\\IoT_Backend_Assignment\\IoT_Backend_Assignment\\IpDetails.cs",
-              "RelativeToolTip": "IoT_Backend_Assignment\\IpDetails.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAA2wEwAAAAfAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kpet\\OneDrive - ADAPTIT A.E\\Desktop\\My_Folder\\IoT_Assignments\\Backend\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "..\\WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\kpet\\OneDrive - ADAPTIT A.E\\Desktop\\My_Folder\\IoT_Assignments\\Backend\\WebApi\\Program.cs",
+              "RelativeToolTip": "..\\WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T13:52:10.35Z",
+              "WhenOpened": "2024-11-22T14:20:22.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebApi.http",
+              "DocumentMoniker": "C:\\Users\\kpet\\OneDrive - ADAPTIT A.E\\Desktop\\My_Folder\\IoT_Assignments\\Backend\\WebApi\\WebApi.http",
+              "RelativeDocumentMoniker": "..\\WebApi\\WebApi.http",
+              "ToolTip": "C:\\Users\\kpet\\OneDrive - ADAPTIT A.E\\Desktop\\My_Folder\\IoT_Assignments\\Backend\\WebApi\\WebApi.http",
+              "RelativeToolTip": "..\\WebApi\\WebApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-22T14:19:56.594Z",
               "EditorCaption": ""
             }
           ]

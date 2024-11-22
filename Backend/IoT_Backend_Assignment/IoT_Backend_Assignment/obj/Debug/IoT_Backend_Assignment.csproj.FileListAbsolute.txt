@@ -26,3 +26,31 @@ C:\Users\STALKER\Desktop\Adaptit\IoT_Assignments\Backend\IoT_Backend_Assignment\
 C:\Users\STALKER\Desktop\Adaptit\IoT_Assignments\Backend\IoT_Backend_Assignment\IoT_Backend_Assignment\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\STALKER\Desktop\Adaptit\IoT_Assignments\Backend\IoT_Backend_Assignment\IoT_Backend_Assignment\bin\Debug\System.ValueTuple.xml
 C:\Users\STALKER\Desktop\Adaptit\IoT_Assignments\Backend\IoT_Backend_Assignment\IoT_Backend_Assignment\obj\Debug\IoT_Back.9749191D.Up2Date
+C:\Users\kpet\OneDrive - ADAPTIT A.E\Desktop\My_Folder\IoT_Assignments\Backend\IoT_Backend_Assignment\IoT_Backend_Assignment\bin\Debug\IoT_Backend_Assignment.dll.config
+C:\Users\kpet\OneDrive - ADAPTIT A.E\Desktop\My_Folder\IoT_Assignments\Backend\IoT_Backend_Assignment\IoT_Backend_Assignment\bin\Debug\IoT_Backend_Assignment.dll
+C:\Users\kpet\OneDrive - ADAPTIT A.E\Desktop\My_Folder\IoT_Assignments\Backend\IoT_Backend_Assignment\IoT_Backend_Assignment\bin\Debug\IoT_Backend_Assignment.pdb
+C:\Users\kpet\OneDrive - ADAPTIT A.E\Desktop\My_Folder\IoT_Assignments\Backend\IoT_Backend_Assignment\IoT_Backend_Assignment\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kpet\OneDrive - ADAPTIT A.E\Desktop\My_Folder\IoT_Assignments\Backend\IoT_Backend_Assignment\IoT_Backend_Assignment\bin\Debug\System.Buffers.dll
+C:\Users\kpet\OneDrive - ADAPTIT A.E\Desktop\My_Folder\IoT_Assignments\Backend\IoT_Backend_Assignment\IoT_Backend_Assignment\bin\Debug\System.IO.Pipelines.dll
+C:\Users\kpet\OneDrive - ADAPTIT A.E\Desktop\My_Folder\IoT_Assignments\Backend\IoT_Backend_Assignment\IoT_Backend_Assignment\bin\Debug\System.Memory.dll
+C:\Users\kpet\OneDrive - ADAPTIT A.E\Desktop\My_Folder\IoT_Assignments\Backend\IoT_Backend_Assignment\IoT_Backend_Assignment\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kpet\OneDrive - ADAPTIT A.E\Desktop\My_Folder\IoT_Assignments\Backend\IoT_Backend_Assignment\IoT_Backend_Assignment\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kpet\OneDrive - ADAPTIT A.E\Desktop\My_Folder\IoT_Assignments\Backend\IoT_Backend_Assignment\IoT_Backend_Assignment\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\kpet\OneDrive - ADAPTIT A.E\Desktop\My_Folder\IoT_Assignments\Backend\IoT_Backend_Assignment\IoT_Backend_Assignment\bin\Debug\System.Text.Json.dll
+C:\Users\kpet\OneDrive - ADAPTIT A.E\Desktop\My_Folder\IoT_Assignments\Backend\IoT_Backend_Assignment\IoT_Backend_Assignment\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\kpet\OneDrive - ADAPTIT A.E\Desktop\My_Folder\IoT_Assignments\Backend\IoT_Backend_Assignment\IoT_Backend_Assignment\bin\Debug\System.ValueTuple.dll
+C:\Users\kpet\OneDrive - ADAPTIT A.E\Desktop\My_Folder\IoT_Assignments\Backend\IoT_Backend_Assignment\IoT_Backend_Assignment\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\kpet\OneDrive - ADAPTIT A.E\Desktop\My_Folder\IoT_Assignments\Backend\IoT_Backend_Assignment\IoT_Backend_Assignment\bin\Debug\System.Buffers.xml
+C:\Users\kpet\OneDrive - ADAPTIT A.E\Desktop\My_Folder\IoT_Assignments\Backend\IoT_Backend_Assignment\IoT_Backend_Assignment\bin\Debug\System.IO.Pipelines.xml
+C:\Users\kpet\OneDrive - ADAPTIT A.E\Desktop\My_Folder\IoT_Assignments\Backend\IoT_Backend_Assignment\IoT_Backend_Assignment\bin\Debug\System.Memory.xml
+C:\Users\kpet\OneDrive - ADAPTIT A.E\Desktop\My_Folder\IoT_Assignments\Backend\IoT_Backend_Assignment\IoT_Backend_Assignment\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kpet\OneDrive - ADAPTIT A.E\Desktop\My_Folder\IoT_Assignments\Backend\IoT_Backend_Assignment\IoT_Backend_Assignment\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kpet\OneDrive - ADAPTIT A.E\Desktop\My_Folder\IoT_Assignments\Backend\IoT_Backend_Assignment\IoT_Backend_Assignment\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\kpet\OneDrive - ADAPTIT A.E\Desktop\My_Folder\IoT_Assignments\Backend\IoT_Backend_Assignment\IoT_Backend_Assignment\bin\Debug\System.Text.Json.xml
+C:\Users\kpet\OneDrive - ADAPTIT A.E\Desktop\My_Folder\IoT_Assignments\Backend\IoT_Backend_Assignment\IoT_Backend_Assignment\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\kpet\OneDrive - ADAPTIT A.E\Desktop\My_Folder\IoT_Assignments\Backend\IoT_Backend_Assignment\IoT_Backend_Assignment\bin\Debug\System.ValueTuple.xml
+C:\Users\kpet\OneDrive - ADAPTIT A.E\Desktop\My_Folder\IoT_Assignments\Backend\IoT_Backend_Assignment\IoT_Backend_Assignment\obj\Debug\IoT_Backend_Assignment.csproj.AssemblyReference.cache
+C:\Users\kpet\OneDrive - ADAPTIT A.E\Desktop\My_Folder\IoT_Assignments\Backend\IoT_Backend_Assignment\IoT_Backend_Assignment\obj\Debug\IoT_Backend_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\kpet\OneDrive - ADAPTIT A.E\Desktop\My_Folder\IoT_Assignments\Backend\IoT_Backend_Assignment\IoT_Backend_Assignment\obj\Debug\IoT_Back.9749191D.Up2Date
+C:\Users\kpet\OneDrive - ADAPTIT A.E\Desktop\My_Folder\IoT_Assignments\Backend\IoT_Backend_Assignment\IoT_Backend_Assignment\obj\Debug\IoT_Backend_Assignment.dll
+C:\Users\kpet\OneDrive - ADAPTIT A.E\Desktop\My_Folder\IoT_Assignments\Backend\IoT_Backend_Assignment\IoT_Backend_Assignment\obj\Debug\IoT_Backend_Assignment.pdb

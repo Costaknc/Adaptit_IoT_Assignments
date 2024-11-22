@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "WebApi",
+    "Method": "GetMessage",
+    "RelativePath": "WebApi/{ip}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ip",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

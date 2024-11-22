@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\STALKER\\Desktop\\Adaptit\\IoT_Assignments\\DLL_Tester\\DLL_Tester\\DLL_Tester.csproj": {}
+    "C:\\Users\\kpet\\OneDrive - ADAPTIT A.E\\Desktop\\My_Folder\\IoT_Assignments\\DLL_Tester\\DLL_Tester\\DLL_Tester.csproj": {}
   },
   "projects": {
-    "C:\\Users\\STALKER\\Desktop\\Adaptit\\IoT_Assignments\\DLL_Tester\\DLL_Tester\\DLL_Tester.csproj": {
+    "C:\\Users\\kpet\\OneDrive - ADAPTIT A.E\\Desktop\\My_Folder\\IoT_Assignments\\DLL_Tester\\DLL_Tester\\DLL_Tester.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\STALKER\\Desktop\\Adaptit\\IoT_Assignments\\DLL_Tester\\DLL_Tester\\DLL_Tester.csproj",
+        "projectUniqueName": "C:\\Users\\kpet\\OneDrive - ADAPTIT A.E\\Desktop\\My_Folder\\IoT_Assignments\\DLL_Tester\\DLL_Tester\\DLL_Tester.csproj",
         "projectName": "DLL_Tester",
-        "projectPath": "C:\\Users\\STALKER\\Desktop\\Adaptit\\IoT_Assignments\\DLL_Tester\\DLL_Tester\\DLL_Tester.csproj",
-        "packagesPath": "C:\\Users\\STALKER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\STALKER\\Desktop\\Adaptit\\IoT_Assignments\\DLL_Tester\\DLL_Tester\\obj\\",
+        "projectPath": "C:\\Users\\kpet\\OneDrive - ADAPTIT A.E\\Desktop\\My_Folder\\IoT_Assignments\\DLL_Tester\\DLL_Tester\\DLL_Tester.csproj",
+        "packagesPath": "C:\\Users\\kpet\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kpet\\OneDrive - ADAPTIT A.E\\Desktop\\My_Folder\\IoT_Assignments\\DLL_Tester\\DLL_Tester\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\STALKER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kpet\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -71,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
