@@ -25,6 +25,8 @@ post "http://localhost:5137/WebApi/update" where in the body of the request we p
 
 get "http://localhost:5137/WebApi/progress/-batch-id-" where -batch-id- is the id of the batch we want to learn its progress
 
+For the 3rd part of the assignment, to make it easier to check if it works etc., it uses batches of 2 requests per batch and waits, at the start, for the requests to be 6 before it start executing them all. That functionality is controlled by 2 variables: 'thresh' and 'batchSize' where 'thresh' is the threshold of number of batches that have to be created before it starts executing requests of each batch and 'batchSize' is the number of requests each batch holds.
+
 
 # Frontend
 -------------------------------------------
