@@ -1,8 +1,8 @@
 [
   {
-    "ContainingType": "WebApi",
+    "ContainingType": "WebApi.WebApiController",
     "Method": "GetMessage",
-    "RelativePath": "WebApi/{ip}",
+    "RelativePath": "WebApi/GetIpDetails/{ip}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -10,6 +10,38 @@
       {
         "Name": "ip",
         "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.WebApiController",
+    "Method": "GetProgress",
+    "RelativePath": "WebApi/progress/{batchId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "batchId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.WebApiController",
+    "Method": "PostUpdate",
+    "RelativePath": "WebApi/update",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Batches\u002BupdateRequest",
         "IsRequired": true
       }
     ],

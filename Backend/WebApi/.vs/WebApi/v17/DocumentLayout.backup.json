@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\kpet\\OneDrive - ADAPTIT A.E\\Desktop\\My_Folder\\IoT_Assignments\\Backend\\WebApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C9937B5D-4A5E-431F-9331-53181FD784B5}|WebApi\\WebApi.csproj|c:\\users\\kpet\\onedrive - adaptit a.e\\desktop\\my_folder\\iot_assignments\\backend\\webapi\\webapi\\controllers\\webapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9937B5D-4A5E-431F-9331-53181FD784B5}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\webapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C9937B5D-4A5E-431F-9331-53181FD784B5}|WebApi\\WebApi.csproj|c:\\users\\kpet\\onedrive - adaptit a.e\\desktop\\my_folder\\iot_assignments\\backend\\webapi\\webapi\\controllers\\webapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9937B5D-4A5E-431F-9331-53181FD784B5}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\webapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9937B5D-4A5E-431F-9331-53181FD784B5}|WebApi\\WebApi.csproj|c:\\users\\kpet\\onedrive - adaptit a.e\\desktop\\my_folder\\iot_assignments\\backend\\webapi\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9937B5D-4A5E-431F-9331-53181FD784B5}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C9937B5D-4A5E-431F-9331-53181FD784B5}|WebApi\\WebApi.csproj|c:\\users\\kpet\\onedrive - adaptit a.e\\desktop\\my_folder\\iot_assignments\\backend\\webapi\\webapi\\batchhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9937B5D-4A5E-431F-9331-53181FD784B5}|WebApi\\WebApi.csproj|solutionrelative:webapi\\batchhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9937B5D-4A5E-431F-9331-53181FD784B5}|WebApi\\WebApi.csproj|c:\\users\\kpet\\onedrive - adaptit a.e\\desktop\\my_folder\\iot_assignments\\backend\\webapi\\webapi\\dbhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9937B5D-4A5E-431F-9331-53181FD784B5}|WebApi\\WebApi.csproj|solutionrelative:webapi\\dbhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kpet\\OneDrive - ADAPTIT A.E\\Desktop\\My_Folder\\IoT_Assignments\\Backend\\WebApi\\WebApi\\Program.cs",
-              "RelativeDocumentMoniker": "WebApi\\Program.cs",
-              "ToolTip": "C:\\Users\\kpet\\OneDrive - ADAPTIT A.E\\Desktop\\My_Folder\\IoT_Assignments\\Backend\\WebApi\\WebApi\\Program.cs",
-              "RelativeToolTip": "WebApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "DbHandler.cs",
+              "DocumentMoniker": "C:\\Users\\kpet\\OneDrive - ADAPTIT A.E\\Desktop\\My_Folder\\IoT_Assignments\\Backend\\WebApi\\WebApi\\DbHandler.cs",
+              "RelativeDocumentMoniker": "WebApi\\DbHandler.cs",
+              "ToolTip": "C:\\Users\\kpet\\OneDrive - ADAPTIT A.E\\Desktop\\My_Folder\\IoT_Assignments\\Backend\\WebApi\\WebApi\\DbHandler.cs",
+              "RelativeToolTip": "WebApi\\DbHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T10:22:33.21Z",
+              "WhenOpened": "2024-11-26T10:46:44.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BatchHandler.cs",
+              "DocumentMoniker": "C:\\Users\\kpet\\OneDrive - ADAPTIT A.E\\Desktop\\My_Folder\\IoT_Assignments\\Backend\\WebApi\\WebApi\\BatchHandler.cs",
+              "RelativeDocumentMoniker": "WebApi\\BatchHandler.cs",
+              "ToolTip": "C:\\Users\\kpet\\OneDrive - ADAPTIT A.E\\Desktop\\My_Folder\\IoT_Assignments\\Backend\\WebApi\\WebApi\\BatchHandler.cs",
+              "RelativeToolTip": "WebApi\\BatchHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T09:25:22.051Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "WebApi.cs",
-              "DocumentMoniker": "C:\\Users\\kpet\\OneDrive - ADAPTIT A.E\\Desktop\\My_Folder\\IoT_Assignments\\Backend\\WebApi\\WebApi\\Controllers\\WebApi.cs",
-              "RelativeDocumentMoniker": "WebApi\\Controllers\\WebApi.cs",
-              "ToolTip": "C:\\Users\\kpet\\OneDrive - ADAPTIT A.E\\Desktop\\My_Folder\\IoT_Assignments\\Backend\\WebApi\\WebApi\\Controllers\\WebApi.cs",
-              "RelativeToolTip": "WebApi\\Controllers\\WebApi.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Title": "WebApiController.cs",
+              "DocumentMoniker": "C:\\Users\\kpet\\OneDrive - ADAPTIT A.E\\Desktop\\My_Folder\\IoT_Assignments\\Backend\\WebApi\\WebApi\\Controllers\\WebApiController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\WebApiController.cs",
+              "ToolTip": "C:\\Users\\kpet\\OneDrive - ADAPTIT A.E\\Desktop\\My_Folder\\IoT_Assignments\\Backend\\WebApi\\WebApi\\Controllers\\WebApiController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\WebApiController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwFUAAABuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-22T10:03:52.381Z",
               "EditorCaption": ""

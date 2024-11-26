@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\kpet\\OneDrive - ADAPTIT A.E\\Desktop\\My_Folder\\IoT_Assignments\\Backend\\IoT_Backend_Assignment\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{812EA6D3-BBE3-4DFE-B93A-6E96E88BAB0D}|IoT_Backend_Assignment\\IoT_Backend_Assignment.csproj|c:\\users\\kpet\\onedrive - adaptit a.e\\desktop\\my_folder\\iot_assignments\\backend\\iot_backend_assignment\\iot_backend_assignment\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{812EA6D3-BBE3-4DFE-B93A-6E96E88BAB0D}|IoT_Backend_Assignment\\IoT_Backend_Assignment.csproj|solutionrelative:iot_backend_assignment\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812EA6D3-BBE3-4DFE-B93A-6E96E88BAB0D}|IoT_Backend_Assignment\\IoT_Backend_Assignment.csproj|c:\\users\\kpet\\onedrive - adaptit a.e\\desktop\\my_folder\\iot_assignments\\backend\\iot_backend_assignment\\iot_backend_assignment\\ipdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{812EA6D3-BBE3-4DFE-B93A-6E96E88BAB0D}|IoT_Backend_Assignment\\IoT_Backend_Assignment.csproj|solutionrelative:iot_backend_assignment\\ipdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812EA6D3-BBE3-4DFE-B93A-6E96E88BAB0D}|IoT_Backend_Assignment\\IoT_Backend_Assignment.csproj|c:\\users\\kpet\\onedrive - adaptit a.e\\desktop\\my_folder\\iot_assignments\\backend\\iot_backend_assignment\\iot_backend_assignment\\iipdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{812EA6D3-BBE3-4DFE-B93A-6E96E88BAB0D}|IoT_Backend_Assignment\\IoT_Backend_Assignment.csproj|solutionrelative:iot_backend_assignment\\iipdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\kpet\\OneDrive - ADAPTIT A.E\\Desktop\\My_Folder\\IoT_Assignments\\Backend\\IoT_Backend_Assignment\\IoT_Backend_Assignment\\ApiClient.cs",
+              "RelativeDocumentMoniker": "IoT_Backend_Assignment\\ApiClient.cs",
+              "ToolTip": "C:\\Users\\kpet\\OneDrive - ADAPTIT A.E\\Desktop\\My_Folder\\IoT_Assignments\\Backend\\IoT_Backend_Assignment\\IoT_Backend_Assignment\\ApiClient.cs",
+              "RelativeToolTip": "IoT_Backend_Assignment\\ApiClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T10:23:05.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IpDetails.cs",
+              "DocumentMoniker": "C:\\Users\\kpet\\OneDrive - ADAPTIT A.E\\Desktop\\My_Folder\\IoT_Assignments\\Backend\\IoT_Backend_Assignment\\IoT_Backend_Assignment\\IpDetails.cs",
+              "RelativeDocumentMoniker": "IoT_Backend_Assignment\\IpDetails.cs",
+              "ToolTip": "C:\\Users\\kpet\\OneDrive - ADAPTIT A.E\\Desktop\\My_Folder\\IoT_Assignments\\Backend\\IoT_Backend_Assignment\\IoT_Backend_Assignment\\IpDetails.cs",
+              "RelativeToolTip": "IoT_Backend_Assignment\\IpDetails.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T09:10:31.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IIpDetails.cs",
+              "DocumentMoniker": "C:\\Users\\kpet\\OneDrive - ADAPTIT A.E\\Desktop\\My_Folder\\IoT_Assignments\\Backend\\IoT_Backend_Assignment\\IoT_Backend_Assignment\\IIpDetails.cs",
+              "RelativeDocumentMoniker": "IoT_Backend_Assignment\\IIpDetails.cs",
+              "ToolTip": "C:\\Users\\kpet\\OneDrive - ADAPTIT A.E\\Desktop\\My_Folder\\IoT_Assignments\\Backend\\IoT_Backend_Assignment\\IoT_Backend_Assignment\\IIpDetails.cs",
+              "RelativeToolTip": "IoT_Backend_Assignment\\IIpDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T08:03:47.605Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
