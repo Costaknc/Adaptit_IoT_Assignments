@@ -30,4 +30,14 @@ For the 3rd part of the assignment, to make it easier to check if it works etc.,
 
 # Frontend
 -------------------------------------------
-This is the folder with the projects for the Frontend Assignment
+This is the folder with the project for the Frontend Assignment
+
+This is a simple web application that retrieves job listings from Norway and displays the most important info in the listing.
+
+The app makes a call to the API to retrieve the data, then it parses the data and keeps the most important of them using an interface. Then the data is displayed in a table across 50+ pages. 
+
+It's not perfect as many things could be added to make it better (more options, more functionalities etc) but it's what I could do with the time (outside of work) that I had.
+
+-------------------------------------------
+
+*Chop wood, carry water*
